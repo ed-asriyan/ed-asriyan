@@ -1,6 +1,6 @@
 ### Hi there, I'm Ed 👋 <img align="right" src="https://komarev.com/ghpvc/?username=ed-asriyan"/>
 
-<a href="https://t.me/ed_asriyan"><img title="Telegram" src="https://img.icons8.com/ios/34/000000/telegram-app.png"/></a>
+<a href="https://t.me/ed_asriyan"><img src="https://img.icons8.com/wired/34/000000/telegram-app.png"/></a>
 <a href="https://www.linkedin.com/in/ed-asriyan"><img title="LinkedIn" src="https://img.icons8.com/wired/34/000000/linkedin.png"/></a>
 <a href="https://www.facebook.com/ed.asrian"><img title="Facebook" src="https://img.icons8.com/wired/34/000000/facebook.png"/></a>
 <a href="https://www.instagram.com/ed_asriyan"><img title="Instagram" src="https://img.icons8.com/wired/34/000000/instagram-new.png"/></a>
