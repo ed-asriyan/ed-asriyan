@@ -11,8 +11,8 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=ed-asriyan&show_icons=true&hide_rank=true"/>
 
 In short about me:
-- I'm working in [Parallels](https://www.parallels.com) as fullstack web developer since 2018
-- I graduated master's degree at [Bauman Moscow State University](https://bmstu.ru/en) in 2021
+- I'm working in [Parallels](https://www.parallels.com) ([Corel](https://www.corel.com)) as fullstack web developer
+- I graduated master's degree at [Bauman Moscow State University](https://bmstu.ru) in 2021
 - I'm engaged in projects separately from official job: [TG2WA](https://t.me/tgtowabot), [BMSTU Schedule](https://vk.com/bmstuschedule) (ru), [M4M](https://github.com/M4MController) and pack of closed projects
 - **I am open to getting involved in <u>new interesting</u> projects. Please write to the contacts above - let's get acquainted and discuss 😁**
 
