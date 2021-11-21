@@ -19,7 +19,7 @@ In short about me:
 
 My major technology stack:
 * Backend: [Django](http://djangoproject.com), [Flask](https://flask.palletsprojects.com), [Express](http://expressjs.com)
-* Frontend: [Vue](https://v3.vuejs.org), [vuex](https://vuex.vuejs.org), [vuex-orm](https://vuex-orm.org), [Ember](https://emberjs.com)
+* Frontend: [Vue](https://v3.vuejs.org), [vuex](https://vuex.vuejs.org), [vuex-orm](https://vuex-orm.org), [storybook](http://storybook.js.org), [creevey](https://git.io/creevey)
 * Databases: [MySQL](https://www.mysql.com), [Postgres](https://www.postgresql.org), [Mongo](https://www.mongodb.com), [Redis](https://redis.io)
 * Queues/Brokers: redis based queues, [RabbitMQ](https://www.rabbitmq.com)
 * Deploy: [Docker](https://www.docker.com), [Ansible](https://www.ansible.com)
