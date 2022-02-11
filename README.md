@@ -5,7 +5,7 @@
 <a href="https://www.facebook.com/ed.asrian" target="_blank"><img title="Facebook" src="https://img.icons8.com/wired/34/000000/facebook.png"/></a>
 <a href="https://www.instagram.com/ed_asriyan" target="_blank"><img title="Instagram" src="https://img.icons8.com/wired/34/000000/instagram-new.png"/></a>
 <a href="https://vk.com/ed_asriyan" target="_blank"><img title="VK" src="https://img.icons8.com/wired/34/000000/vk-com.png"/></a>
-<a href="mailto:ed-asriyan@protonmail.com" target="_blank"><img title="Write email" src="https://img.icons8.com/wired/34/000000/send-mass-email.png"/></a>
+<a href="mailto:contact@asriyan.me" target="_blank"><img title="Write email" src="https://img.icons8.com/wired/34/000000/send-mass-email.png"/></a>
 <a href="https://asriyan.me" target="_blank"><img title="My website" src="https://img.icons8.com/wired/30/000000/domain.png"/></a>
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=ed-asriyan&show_icons=true&hide_rank=true"/>
