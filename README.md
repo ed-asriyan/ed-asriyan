@@ -1,4 +1,4 @@
-### Hi there, I'm Ed 👋 <img align="right" src="https://komarev.com/ghpvc/?username=ed-asriyan"/>
+## Hi there, I'm Ed 👋 <img align="right" src="https://komarev.com/ghpvc/?username=ed-asriyan"/>
 
 <a href="https://t.me/ed_asriyan" target="_blank"><img src="https://img.icons8.com/wired/34/000000/telegram-app.png"/></a>
 <a href="https://www.linkedin.com/in/ed-asriyan" target="_blank"><img title="LinkedIn" src="https://img.icons8.com/wired/34/000000/linkedin.png"/></a>
@@ -10,19 +10,11 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=ed-asriyan&show_icons=true&hide_rank=true"/>
 
-In short about me:
-- I'm Senior Engineering Manager at [Alludo](https://www.alludo.com)
-- I graduated master's degree at [Bauman Moscow State University](https://bmstu.ru) in 2021
-- I'm engaged in projects separately from official job: [TG2WA](https://t.me/tgtowabot), [BMSTU Schedule](https://vk.com/bmstuschedule) (ru), [M4M](https://github.com/M4MController) and pack of closed projects
-- **I am open to getting involved in <u>new interesting</u> projects. Please write to the contacts above - let's get acquainted and discuss 😁**
+#### In short about me:
 
-
-My major technology stack:
-* Backend: [Django](http://djangoproject.com), [Flask](https://flask.palletsprojects.com), [Express](http://expressjs.com)
-* Frontend: [Vue](https://v3.vuejs.org), [vuex](https://vuex.vuejs.org), [vuex-orm](https://vuex-orm.org), [storybook](http://storybook.js.org), [creevey](https://git.io/creevey)
-* Databases: [MySQL](https://www.mysql.com), [Postgres](https://www.postgresql.org), [Mongo](https://www.mongodb.com), [Redis](https://redis.io)
-* Queues/Brokers: redis based queues, [RabbitMQ](https://www.rabbitmq.com)
-* Deploy: [Docker](https://www.docker.com), [Ansible](https://www.ansible.com)
-* ...and others
+- 🚀 I'm Senior Engineering Manager at [Alludo](https://www.alludo.com)
+- 🧑‍🎓 I graduated master's degree at [Bauman Moscow State University](https://bmstu.ru) in 2021
+- 💡 IT enthusiast
+- 🇲🇺 I live in [Mauritius](https://goo.gl/maps/xnuFYLGY3x3wRxqv6) since 2022, from 🇷🇺 Russia, Moscow
 
 <a align="right" href="https://icons8.com" target="_blank">For icons thanks to Icons8</a>
