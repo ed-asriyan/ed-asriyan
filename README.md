@@ -1,4 +1,4 @@
-## Hi there, I'm Ed 👋 <img align="right" src="https://komarev.com/ghpvc/?username=ed-asriyan"/>
+### Hi there, I'm Ed 👋 <img align="right" src="https://komarev.com/ghpvc/?username=ed-asriyan"/>
 
 <a href="https://t.me/ed_asriyan" target="_blank"><img src="https://img.icons8.com/wired/34/000000/telegram-app.png"/></a>
 <a href="https://www.linkedin.com/in/ed-asriyan" target="_blank"><img title="LinkedIn" src="https://img.icons8.com/wired/34/000000/linkedin.png"/></a>
