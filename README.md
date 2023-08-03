@@ -13,7 +13,7 @@
 #### In short about me:
 
 - 🚀 I'm Senior Engineering Manager at [Alludo](https://www.alludo.com)
-- 🧑‍🎓 I graduated master's degree at [Bauman Moscow State University](https://bmstu.ru) in 2021
+- 🧑‍🎓 I graduated master's degree at [BMSTU](https://bmstu.ru) in 2021
 - 💡 IT enthusiast
 - 🇲🇺 I live in [Mauritius](https://goo.gl/maps/xnuFYLGY3x3wRxqv6) since 2022, from 🇷🇺 Russia, Moscow
 
