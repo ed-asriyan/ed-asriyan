@@ -16,5 +16,6 @@
 - 🧑‍🎓 I graduated master's degree at [BMSTU](https://bmstu.ru) in 2021
 - 💡 IT enthusiast
 - 🇲🇺 I live in [Mauritius](https://goo.gl/maps/xnuFYLGY3x3wRxqv6) since 2022, from 🇷🇺 Russia, Moscow
+- ✍️ GPG fingerprint: `E075 E24B 56E0 F769 4740  FAED A70D 43C1 D9AB 8D96`
 
 <a align="right" href="https://icons8.com" target="_blank">For icons thanks to Icons8</a>
