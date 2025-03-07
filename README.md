@@ -12,7 +12,7 @@
 
 #### In short about me:
 
-- 🚀 I'm Senior Engineering Manager at [Alludo](https://www.alludo.com)
+- 🚀 I'm Director of Engineering at [Alludo](https://www.alludo.com)
 - 🧑‍🎓 I graduated master's degree at [BMSTU](https://bmstu.ru) in 2021
 - 💡 IT enthusiast
 - 🇺🇸 I live in Seattle, WA
