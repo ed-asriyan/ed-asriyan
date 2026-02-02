@@ -13,7 +13,8 @@
 
 #### In short about me:
 
-- 🚀 I'm Director of Engineering at [Alludo](https://www.alludo.com)
+- 🚀 Founder of [AIGid](https://aigid.io)
+- 🧠 Director of Engineering at [Parallels](https://parallels.com)
 - 🧑‍🎓 I graduated master's degree at [BMSTU](https://bmstu.ru) in 2021
 - 💡 IT enthusiast
 - 🇺🇸 I live in Seattle, WA
