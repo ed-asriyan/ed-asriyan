@@ -1,6 +1,6 @@
 ### Hi there, I'm Ed 👋 <img align="right" src="https://komarev.com/ghpvc/?username=ed-asriyan"/>
 
-<a href="https://smp17.simplex.im/a#4fDJYxKMGNve_os7F-y4Fjt_gc0Ar5x3JHHdfH5k2IE" target="_blank"><img title="SimpleX Chat" src="https://raw.githubusercontent.com/simplex-chat/simplex-chat/refs/heads/stable/media-logos/simplex-symbol-light.svg" style="filter: grayscale(100%)"/></a>
+<a href="https://smp2.asriyan.me/a#uteFWmilkx6qO4FYqhQS_gMdro_vJP_W81r1yaT9PBw?p=5223&c=tUA1l04YkSAAEBliw2DhqFRj0R5Jr1yZ_fmmopghqPo" target="_blank"><img title="SimpleX Chat" src="https://raw.githubusercontent.com/simplex-chat/simplex-chat/refs/heads/stable/media-logos/simplex-symbol-light.svg" style="filter: grayscale(100%)"/></a>
 <a href="https://t.me/ed_asriyan" target="_blank"><img src="https://img.icons8.com/wired/34/000000/telegram-app.png"/></a>
 <a href="https://www.linkedin.com/in/ed-asriyan" target="_blank"><img title="LinkedIn" src="https://img.icons8.com/wired/34/000000/linkedin.png"/></a>
 <a href="https://www.facebook.com/ed.asrian" target="_blank"><img title="Facebook" src="https://img.icons8.com/wired/34/000000/facebook.png"/></a>
@@ -13,7 +13,6 @@
 
 #### In short about me:
 
-- 🚀 Founder of [AIGid](https://aigid.io)
 - 🧠 Director of Engineering at [Parallels](https://parallels.com)
 - 🧑‍🎓 I graduated master's degree at [BMSTU](https://bmstu.ru) in 2021
 - 💡 IT enthusiast
